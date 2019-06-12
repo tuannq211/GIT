@@ -1,2 +1,3 @@
 feature2.txt
 fix issue1
+fix issue 2
